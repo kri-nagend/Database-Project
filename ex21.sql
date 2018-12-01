@@ -1,0 +1,1 @@
+alter table cell alter totalBeds set default 4;
